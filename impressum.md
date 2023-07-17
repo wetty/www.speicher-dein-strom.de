@@ -2,6 +2,7 @@
 title: Impressum
 subtitle: Was sein muß, muß sein
 permalink: /impressum/
+layout: page
 ---
 
 ## Angaben gemäß § 5 TMG: ##

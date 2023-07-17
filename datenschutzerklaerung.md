@@ -2,6 +2,7 @@
 title: Datenschutzerklärung
 subtitle: "Datenschutz auf einen Blick"
 permalink: /datenschutzerklaerung/
+layout: page
 ---
 
 ## 1. Datenschutz auf einen Blick ##
