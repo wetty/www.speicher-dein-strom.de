@@ -1,5 +1,5 @@
-copyright: '&copy; Start Bootstrap'
+copyright: '&copy; 2023 Dipl.-Ing. Thomas Wetterer'
 links:
-  - text: Creative
-    url: 'https://startbootstrap.com/themes/creative/'
-    new_window: true
+  - text: Impressum
+    url: '/impressum/'
+    new_window: false
