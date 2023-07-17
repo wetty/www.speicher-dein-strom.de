@@ -6,7 +6,7 @@ permalink: /impressum/
 
 ## Angaben gemäß § 5 TMG: ##
 
-Thomas Wetterer    
+Dipl.-Ing. Thomas Wetterer    
 Breslauer Strasse 44    
 64579 Gernsheim
 
