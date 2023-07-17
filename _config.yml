@@ -17,6 +17,10 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+# Reading Files
+include:
+  - .htaccess
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
